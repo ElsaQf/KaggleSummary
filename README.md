@@ -10,3 +10,4 @@ kaggle比赛总结
   + GBDT
   + Voting
   + Stacking
+- [房价预测](https://github.com/ElsaQf/KaggleSummary/tree/master/HousePrices)
