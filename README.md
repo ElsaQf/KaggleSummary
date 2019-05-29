@@ -1,5 +1,6 @@
 # KaggleSummary
 kaggle比赛总结
+[参考](https://github.com/apachecn/kaggle)
 
 - [手写数字识别](https://github.com/ElsaQf/KaggleSummary/tree/master/DigitRecognization)
   + cnn
